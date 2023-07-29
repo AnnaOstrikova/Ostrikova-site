@@ -7,3 +7,7 @@
    
    Люблю домашних животных:
    [Котик](njashnye-kotiki4.jpg.webp)
+
+![Alt text](njashnye-kotiki4.jpg-1.webp)
+
+   
